@@ -44,3 +44,8 @@ Es parte del active learning. Aprender jugando es aprender haciendo. Pásamos mi
 En un juego queremos avanzar ya sea para continuar la historia o para vencer a alguien o por deporte o por muchas otras cosas que consideramos divertidas. Al final ese es el punto: divertirse.
 
 La gamificación del aprendizaje es lo más parecido a eso. Realmente el objetivo final no es solo divertirse sino aprender también, pero siguendo la estructura de las cosas que mencionamos anteriormente, podemos dar la sensación (y resultados) más parecidos a los de un juego puramente de entretenimiento.
+
+### Finanzas éticas
+Pensamos que la vida es un juego y el marcador es la cantidad de dinero que tienes, cuando sabemos que no es así. El dinero es una herramienta, es amoral, no es ni bueno ni malo, aunque sí es necesario. Enseñar esto a los niños desde esa edad es revolucionario. Esa herramienta puede ser usada para muchas cosas buenas, tanto personales como: vivir una vida comoda, mantener una familia, viajar. Como para ayudar a otros: invirtiendo en ideas de otros, donando, apoyando.
+
+Encontrar ese balance entre dar y recibir; trabajar y disfrutar; ayudar y planear, es treméndamente importante.
