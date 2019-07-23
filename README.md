@@ -16,12 +16,24 @@ Una vez sabiendo esto (que supongo que si están escuchando el podcast deducimos
 
 Creo que los problemas que mencionamos anteriormente son casi naturales en el ser humano, entonces si se le enseña nada a los niños, por lo menos van a tener los mismos problemas en el futuro que nosotros hoy. **Por lo menos**.
 
-#### satisfacción inmediata
+##### satisfacción inmediata
 Muchos todavía batallamos con eso, pero creo que es más obvio en los niños. A veces la vida se encarga de enseñarnos a la mala a ahorrar, invertir, posponer cosas. Pero si no... ahí es donde acabamos **comprando cosas que ni podemos pagar ni queremos tener**, acabamos **yéndonos al trabajo que nos pague más hoy**, acabamos **usando crédito sin medida**, etc.
 
-#### no planear
+##### no planear
 Es raro que un niño planee o que haga una estrategia. Si esto no se trata las consecuencias en la vida adulta son muy obvias. **Acabamos usando nuestro tiempo apagando fuegos en lugar de ir creciendo lo que tenemos.**
 
 ##### menos fricción
 Ahora, el mundo cada día esta mas digitlizado, por lo que al usar dinero electrónico, **tenemos menor fricción que si usaramos efectivo**. Este problema ya existe pero va a ser mayor para futuras generaciones.
 
+### Importancia de empezar a invertir desde temprano
+*Tiempo + Interés compuesto = magia*
+
+![Ejemplo](https://cdn.ramseysolutions.net/cms/sites/smartdollar-com/financial-wellness-compound-interest-2.jpg)
+
+### ¿Cómo poder educar a los niños a administrarse?
+
+##### Active learning.
+El **aprendizaje activo** es cuando haces para aprender. Estamos acostumbrados al aprendizaje pasivo, ver videos, escuchar a alguien, leer; y aunque éste también es necesario y bueno, los niños practicamente diseñados para aprender activamente: jugando, haciendo, moviendose.
+
+### Hablando su idioma
+Los niños no están tontos, simplemente **aprenden de manera distinta a nosotros porque su vida es diferente a la nuestra**. Al niño e incluso al joven hay que hablarle con cosas de su mundo, no viéndolo hacia abajo como muchos hacen sino empatizando con su estilo de vida. Los niños no trabajan ni se preocupan por el dinero, a diferencia de nostros, pero los niños si quieren cosas materiales o hacer algo y eso requiere dinero. *Si empatizamos con su día a día podemos apelar a esas emociones que ellos ya entienden.*
