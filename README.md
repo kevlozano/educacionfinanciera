@@ -35,5 +35,12 @@ Ahora, el mundo cada día esta mas digitlizado, por lo que al usar dinero electr
 ##### Active learning.
 El **aprendizaje activo** es cuando haces para aprender. Estamos acostumbrados al aprendizaje pasivo, ver videos, escuchar a alguien, leer; y aunque éste también es necesario y bueno, los niños practicamente diseñados para aprender activamente: jugando, haciendo, moviendose.
 
-### Hablando su idioma
+#### Hablando su idioma
 Los niños no están tontos, simplemente **aprenden de manera distinta a nosotros porque su vida es diferente a la nuestra**. Al niño e incluso al joven hay que hablarle con cosas de su mundo, no viéndolo hacia abajo como muchos hacen sino empatizando con su estilo de vida. Los niños no trabajan ni se preocupan por el dinero, a diferencia de nostros, pero los niños si quieren cosas materiales o hacer algo y eso requiere dinero. *Si empatizamos con su día a día podemos apelar a esas emociones que ellos ya entienden.*
+
+### Gamificación
+Es parte del active learning. Aprender jugando es aprender haciendo. Pásamos miles de horas jugando videojuegos, los cuales muchos requieren de un pensamiento complejo: estrategias, agilidad mental, comprensión lectora, etc. ¿Por qué lo hacemos? porque estas cosas tan importantes no son el objetivo final, son herramientas para llegar al objetivo final: entretenimiento.
+
+En un juego queremos avanzar ya sea para continuar la historia o para vencer a alguien o por deporte o por muchas otras cosas que consideramos divertidas. Al final ese es el punto: divertirse.
+
+La gamificación del aprendizaje es lo más parecido a eso. Realmente el objetivo final no es solo divertirse sino aprender también, pero siguendo la estructura de las cosas que mencionamos anteriormente, podemos dar la sensación (y resultados) más parecidos a los de un juego puramente de entretenimiento.
